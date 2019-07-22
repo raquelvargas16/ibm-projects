@@ -1,2 +1,2 @@
 # ibm-projects
-In this repository will be shared notebooks and code from projects developed during my work at IBM.
+In this repository, notebooks and code will be shared  from projects developed during my work at IBM.
